@@ -926,3 +926,5 @@ table td[colspan]{ border-top: 1px solid #ddd; }
 #mainbannerLayer.main-layer .list-tit + .list.type1 li .de-cts { padding-left: 120px; }
 #mainbannerLayer .table-wrap { width: 100%; margin-top: 20px; }
 #mainbannerLayer [class^="table-style"].all-c td:first-child { border-left: 0; }
+
+.agreeCheck.accordion-check { color: #4E32A5; }
